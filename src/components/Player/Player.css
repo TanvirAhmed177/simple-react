@@ -1,0 +1,25 @@
+.player-container {
+  padding: 20px;
+  background-color: #9cc3d5ff;
+  text-align: center;
+  height: 300px;
+  width: 380px;
+  display: inline-table;
+  margin: 10px 30px;
+
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+    rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+  border-radius: 5px;
+}
+.player-container img {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 10px;
+}
+.player-container h3,
+p {
+  color: #0063b2ff;
+}
+.icon {
+  margin-right: 5px;
+}
